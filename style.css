@@ -1,0 +1,82 @@
+body{
+
+}
+
+/*comentário no css é assim*/
+/*background attachment: pode ser fixed, scroll e 
+local. Achei o fixed mais maneiro.
+background-size: cover; cobre*/
+
+
+#paragrafos{
+	/*color:red;*/
+    background-image: url(fundos/imagem1.jpg);
+    background-repeat:no-repeat;
+    background-position:cover;
+    
+
+}
+.subDiv{
+ background-color: yellow;
+
+}
+
+
+#Titulo{
+	color:#3ff0f0;
+}
+
+.texto_verde{
+	color:green;
+}
+/* centimentos*/
+#cm{
+     background-color: blue;
+     width:1cm; 
+     height:1cm; 
+
+}
+/*milimetros*/
+#mm{
+    background-color: red;
+    width:1mm; 
+    height:1mm;
+
+}
+/*inches*/
+#in{
+    background-color: blue;
+    width:1in; 
+    height:1in;
+
+}
+/*pixels*/
+#px{
+    background-color: red;
+    width:10px; 
+    height:10px;
+
+}
+/*ponto*/
+#pt{
+    background-color: blue;
+    width:10pt; 
+    height:10pt;
+
+}
+/*medida pica*/
+#pc{
+    background-color: green;
+    width:1pc; 
+    height:1pc;
+
+}
+
+/*cm - centímetro: 96px/2.54;
+mm - milímetro: 1/10cm;
+q - 1/4 do milímetro: 1/40cm;
+in - polegada: 2,54cm = 96px;
+pc - pica: 12 points ou 1/6in;
+pt - point: 1/72in;
+px - pixel: 1/96in;*/
+
